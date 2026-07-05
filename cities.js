@@ -1,20 +1,8 @@
 const northCarolinaCities = [
-  "Lake Lure", "Maury", "Moyock", "Aydlett", "Elm City",
-  "Terrell", "Vanceboro", "Creston", "Dover", "Whittier",
-  "Rocky Point", "Hobgood", "Jackson Springs", "Stony Point", "Hildebran",
-  "Albertson", "Sapphire", "Alexander", "Hamlet", "Fallston",
-  "Cherryville", "Corolla", "Mill Spring", "Pinebluff", "Stokes",
-  "Walkertown", "Alexis", "Avon", "Rougemont", "Dobson",
-  "Yanceyville", "Marshallberg", "Oriental", "Mcgrady", "Staley",
-  "Merry Hill", "Bat Cave", "Midway Park", "Naples", "Sophia",
-  "Lake Toxaway", "Roaring River", "Cofield", "Riegelwood", "Harrells",
-  "Paw Creek", "Garysburg", "Topton", "Wallburg", "Pine Level",
-  "Salemburg", "Gibson", "Skyland", "Windsor", "Poplar Branch",
-  "Ronda", "Zirconia", "Landis", "Saluda", "Castalia",
-  "Pikeville", "New Hill", "Colerain", "Hot Springs", "Pinetown",
-  "Alamance", "Grantsboro", "Lumber Bridge", "Shawboro", "Biscoe",
-  "Gatesville", "Cleveland", "Princeton", "Vass", "Roper",
-  "Earl", "Traphill", "Olin", "Jonesville", "Glen Alpine",
+  "Battleboro", "Waco", "Bath", "Dudley", "Lansing",
+  "Lakeview", "Walstonburg", "Pantego", "Harkers Island", "Sugar Grove",
+  "East Flat Rock", "Roaring Gap", "Icard", "Stantonsburg", "Sunbury",
+  "Corapeake", "Peachland", "Thurmond", "Parkton", "Clarkton",
 ];
 
 const BATCH_SIZE = 5;
